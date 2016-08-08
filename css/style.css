@@ -356,13 +356,13 @@ article .entry ol dl,
 article .entry dl dl {
   margin-top: 0;
 }
-article .entry h1,
-article .entry h2 {
+article .entry h1 {
   font-weight: normal;
   border-bottom: 1px solid #ddd;
   padding-bottom: 10px;
   margin-top: 20px;
 }
+article .entry h2,
 article .entry h3,
 article .entry h4,
 article .entry h5,
