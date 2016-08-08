@@ -445,9 +445,6 @@ article footer a:before {
 article footer a.more-link:before {
   content: '\f054';
 }
-article footer a.comment-link:before {
-  content: '\f075';
-}
 article footer .categories,
 article footer .tags {
   position: relative;
